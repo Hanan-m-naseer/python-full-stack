@@ -1,12 +1,36 @@
-# 🖥️ Python Full-Stack Internship Project
+# 🧭 TripMate - TouristDestination 🌍✨
 
-## 📌 Overview
-This repository contains the projects and assignments completed during my **3-month Python Full-Stack Development Internship**. The internship covered backend development using **Python (Django/Flask/FastAPI)**, frontend technologies like **HTML, CSS, JavaScript, React**, and database management.
+Welcome to **TripMate** — a Django-powered web application for managing tourist destinations, planning trips, and making travel easy and organized.
 
-## 🔥 Key Highlights
-- **Backend:** Python (Django/Flask/FastAPI)
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Database:** PostgreSQL / MySQL 
-- **Version Control:** Git & GitHub
 
-## 📁 Project Structure
+
+---
+
+## 📸 Project Preview
+
+![TripMate Website Screenshot](media/destination_images/tripmate.png)
+
+---
+
+## ✨ Features
+
+✅ Browse tourist destinations with rich details  
+✅ Interactive itinerary planner  
+✅ User authentication & admin management  
+✅ Responsive design with Bootstrap  
+✅ Django Admin for easy backend management  
+✅ Modular, easy-to-maintain code structure
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Django (Python)
+- **Frontend:** HTML, CSS, Bootstrap
+- **Database:** MySQL
+- **Admin:** Django Admin Panel
+
+---
+
+
+
